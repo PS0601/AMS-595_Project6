@@ -95,7 +95,7 @@ Run Jupyter Notebook:
 
 - jupyter notebook  
 
-- Then open these files:  
+Then open these files:  
 
 - Sachdeva_Prerna_Project6.ipynb  
 
