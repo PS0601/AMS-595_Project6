@@ -84,13 +84,13 @@ pip install numpy matplotlib h5py
 
 ### **Step 2: Add Dataset Files**
 
-Make sure these dataset files are in the same folder as your notebooks
-train_catvnoncat.h5
-test_catvnoncat.h5
+-Make sure these dataset files are in the same folder as your notebooks
+-train_catvnoncat.h5
+-test_catvnoncat.h5
 
 ### **Step 3: Run the Notebooks**
-jupyter notebook
-then run
-Sachdeva_Prerna_Project6.ipynb
-Sachdeva_Prerna_Q5Original.ipynb
-Sachdeva_Prerna_Q5Modified.ipynb
+-jupyter notebook
+-then run
+-Sachdeva_Prerna_Project6.ipynb
+-Sachdeva_Prerna_Q5Original.ipynb
+-Sachdeva_Prerna_Q5Modified.ipynb
