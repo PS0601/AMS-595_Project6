@@ -1,6 +1,5 @@
 # AMS-595_Project6
 
-# AMS 595 – Project 6  
 Author: Prerna Sachdeva  
 Course: AMS 595 — Fundamentals of Computing  
 
@@ -80,17 +79,16 @@ This demonstrates how dataset size impacts model performance.
 ## How to Run the Code
 
 ### **Step 1: Install Dependencies**
-```bash
+
 pip install numpy matplotlib h5py
 
-
 ### **Step 2: Add Dataset Files**
-```bash
+
 Make sure these dataset files are in the same folder as your notebooks
 train_catvnoncat.h5
 test_catvnoncat.h5
 
-### **Step 3: **
+### **Step 3: Run the Notebooks**
 jupyter notebook
 then run
 Sachdeva_Prerna_Project6.ipynb
