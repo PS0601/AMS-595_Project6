@@ -84,8 +84,9 @@ This demonstrates how dataset size impacts model performance.
 pip install numpy matplotlib h5py
 
 
-### **Step 2: Add Dataset Files*
-# Make sure these dataset files are in the same folder as your notebooks
+### **Step 2: Add Dataset Files**
+```bash
+Make sure these dataset files are in the same folder as your notebooks
 train_catvnoncat.h5
 test_catvnoncat.h5
 
