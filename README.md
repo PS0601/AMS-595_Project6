@@ -1,8 +1,5 @@
 # AMS-595_Project6
 
-Author: Prerna Sachdeva  
-Course: AMS 595 — Fundamentals of Computing  
-
 This repository contains the full implementation and results for **Project 6**, which includes four problems:
 
 - **Q2:** Gradient Descent on a 1D Function  
